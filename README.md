@@ -12,7 +12,7 @@ The Revenue Overview page enables end-users to filter visualizations by city, ro
 
 Task Performed:
 
-Data Profiling using Power Query, 
+Data Cleaning/Profiling using Power Query, 
 Data Modeling, 
 Data Analysis using DAX, 
 Data Visualization.
