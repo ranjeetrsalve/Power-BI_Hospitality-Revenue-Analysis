@@ -10,3 +10,9 @@ A leading five-star hotel chain in India, is facing a decline in market share an
 BI Report Details:
 The Revenue Overview page enables end-users to filter visualizations by city, room-class, room-category, month, and week. Map visualizations can be interacted with using the cursor to reveal Tool-tip and right-clicking on the visual enables drill-through. Week-over-Week changes are displayed as percentage values below the KPIs. Moreover, the dashboard has a separate page for forecast analysis (What-if scenario), which provides insights on Revenue and RevPAR.
 
+Task Performed:
+
+Data Profiling using Power Query, 
+Data Modeling, 
+Data Analysis using DAX, 
+Data Visualization.
